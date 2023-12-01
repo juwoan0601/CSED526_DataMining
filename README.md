@@ -10,6 +10,9 @@ Data
 For our research in the field of medical robotics, we will collect data from academic papers, including author affiliations, keywords, journal field, publication date, and abstract and introduction content. While most data will be extracted from paper manuscripts, the publisher field data will be sourced from Journal Citation Reports (JCR) category labels to ensure accuracy and consistency. This comprehensive data set will serve as the foundation for our robust trend analysis in the field of medical robotics. Keywords in the form of a word set will be integrated with the abstract and introduction context represented as word vectors. This combination will provide a comprehensive representation of the paper’s content, facilitating more effective analysis. Data will be formatted as: 
 
 # Requirement
+~~~
+pip install -r requirements.txt
+~~~
 
 # How to Launch
 
