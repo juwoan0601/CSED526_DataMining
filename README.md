@@ -23,6 +23,8 @@ pip install -r requirements.txt
 - https://peekaboo-vision.blogspot.com/2012/11/a-wordcloud-in-python.html 
 - https://heytech.tistory.com/352
 - https://www.nltk.org/data.html
+- https://mkjjo.github.io/python/2019/07/09/english_preprocessing.html
+
 
 
 
