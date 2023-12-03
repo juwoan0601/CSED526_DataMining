@@ -18,6 +18,12 @@ pip install -r requirements.txt
 
 # Quick Start
 
+# Useful documents
+https://amueller.github.io/word_cloud/references.html 
+https://peekaboo-vision.blogspot.com/2012/11/a-wordcloud-in-python.html 
+https://heytech.tistory.com/352
+https://www.nltk.org/data.html
+
 
 
 
